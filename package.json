@@ -1,0 +1,12 @@
+{
+    "name": "my-project",
+    "source": "src/index.html",
+    "scripts": {
+        "start": "parcel",
+        "build": "parcel build"
+    },
+    "devDependencies": {
+        "parcel": "latest",
+        "parcel-transformer-markdown": "^2.1.0"
+    }
+}
